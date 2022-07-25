@@ -1,0 +1,160 @@
+.astra_500{ 
+    color: #EB6C34;
+}
+.orange{ 
+    color: #EC6B28;
+}
+/* BLUE */
+.blue_100 { 
+    color: #F3F8FF;
+}
+.blue_200 { 
+    color: #B6D5FE;
+}
+.blue_300 { 
+    color: #7BB3F7;
+}
+.blue_400 { 
+    color: #4992E9;
+}
+.blue_500 { 
+    color: #1E71D4;
+}
+.blue_600 { 
+    color: #0E5EBD;
+}
+.blue_700 { 
+    color: #024BA2;
+}
+.blue_800 { 
+    color: #003882;
+}
+.blue_900 { 
+    color: #002659;
+}
+.newBlueBg { 
+    color: #043A5F;
+}
+
+
+/* GREEN */
+
+.green_100 { 
+    color: #F0F8F4;
+}
+.green_300 { 
+    color: #78BF9A;
+}
+.green_500 { 
+    color: #008040;
+}
+.green_700 { 
+    color: #00632D;
+}
+.green_900 { 
+    color: #003D1A;
+}
+
+/* GREY */
+
+.grey_900 { 
+    color: #C4C4C4;
+}  
+
+
+/* NEIGHT */
+.night_100 { 
+    color: #F6F8FA;
+}
+.night_200 { 
+    color: #CED4DF;
+}
+.night_300 { 
+    color: #A6B1C2;
+}
+.night_400 { 
+    color: #808DA4;
+}
+.night_500 { 
+    color: #1F2438;
+}
+.night_600 { 
+    color: #4C5974;
+}
+.night_700 { 
+    color: #3C4961;
+}
+.night_800 { 
+    color: #2E394E;
+}
+.night_900 { 
+    color: #2B2C41;
+}
+
+
+/* PURPLE */
+
+.purple_100 { 
+    color: #F7F5FA;
+}
+.purple_300 { 
+    color: #B6A5CF;
+}
+.purple_500 { 
+    color: #7658A1;
+}
+.purple_700 { 
+    color: #4D386A;
+}
+.purple_900 { 
+    color: #231931;
+}
+
+/* RED */
+
+.red_100 { 
+    color: #FEF1F1;
+}
+.red_300 { 
+    color: #ED8686;
+}
+.red_500 { 
+    color: #D52424;
+}
+.red_700 { 
+    color: #9B1313;
+}
+.red_900 { 
+    color: #5C0707;
+}
+.red_1000 { 
+    color: #DC2A2A;
+}
+.text1100 { 
+    color: #FF00C7;
+}
+
+/* YELLO */
+
+.yellow_100 { 
+    color: #F9F6F0;
+}
+.yellow_300 { 
+    color: #CAB27B;
+}
+.yellow_500 { 
+    color: #946B0C;
+}
+.yellow_700 { 
+    color: #714F00;
+}
+.yellow_900 { 
+    color: #462F00;
+}
+body {
+    font-size: 0.875rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+}
