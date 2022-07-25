@@ -158,3 +158,13 @@ body {
     line-height: 1.43;
     letter-spacing: 0.01071em;
 }
+
+.tile {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: #043A5F; 
+    color: white;
+  }
