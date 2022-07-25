@@ -10,11 +10,20 @@ function showResults() {
         document.getElementById('quiz-max-score').innerHTML = quiz.result.totalQuestions.toString();
         document.getElementById('quiz-percent').innerHTML = quizScorePercent.toString();
 
-        // Change background colour of results div according to score percent
-        if (quizScorePercent >= 75) quizResultElement.style.backgroundColor = '#4caf50';
-        else if (quizScorePercent >= 50) quizResultElement.style.backgroundColor = '#ffc107';
-        else if (quizScorePercent >= 25) quizResultElement.style.backgroundColor = '#ff9800';
-        else if (quizScorePercent >= 0) quizResultElement.style.backgroundColor = '#f44336';
+        // Scoring and unlock continue button
+        if (quizScorePercent >= 75) {
+            quizResultElement.style.backgroundColor = '#4caf50';
+            const link = document.getElementById('continue');
+            link.disabled = false;
+            link.innerHTML = "Continue!"
+            link.classList.remove('disabled');
+        } else if (quizScorePercent >= 50) {
+            quizResultElement.style.backgroundColor = '#ffc107';
+        } else if (quizScorePercent >= 25) {
+            quizResultElement.style.backgroundColor = '#ff9800';
+        } else if (quizScorePercent >= 0) {
+            quizResultElement.style.backgroundColor = '#f44336';
+        }
         
         // Highlight questions according to whether they were correctly answered. The callback allows us to highlight/show the correct answer
         quiz.highlightResults(handleAnswers);
