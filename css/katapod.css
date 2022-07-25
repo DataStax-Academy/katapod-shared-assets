@@ -1,4 +1,4 @@
-# Navigation
+/* Navigation */
 
 a.orange_bar {
     display: block;
@@ -17,7 +17,7 @@ a.steps {
     text-decoration: none;
 }
 
-# Commands 
+/* Commands */
 
 pre code {
     background-color: lightgray;
@@ -32,7 +32,7 @@ a.command_link {
     text-decoration:none;
 }
 
-# Top block
+/* Top block */
 
 div.top {
     width:100%;
@@ -41,7 +41,7 @@ div.top {
     color: white;
 }
 
-# Colors
+/* Colors */
 
 .astra_500 { 
     color: #EB6C34;
@@ -51,6 +51,7 @@ div.top {
 }
 
 /* BLUE */
+
 .blue_100 { 
     color: #F3F8FF;
 }
