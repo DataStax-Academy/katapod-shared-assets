@@ -1,10 +1,57 @@
-.astra_500{ 
+/* Navigation */
+
+a.orange_bar {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(253, 119, 0);
+    vertical-align: middle;
+    text-align: middle;
+    padding: 20px; width: 100%;
+    text-transform:uppercase;
+}
+
+a.steps {
+    color: white;
+    text-decoration: none;
+}
+
+/* Commands */
+
+pre code {
+    background-color: lightgray;
+    color: black;
+    margin: 0 10px 0 10px;
+    padding: 10px 10px;
+    width: 100%;
+    display: block;
+}
+
+a.command_link {
+    text-decoration:none;
+}
+
+/* Top block */
+
+div.top {
+    width:100%;
+    padding: 40px 0 20px 20px;
+    background-color: #043A5F;
+    color: white;
+}
+
+/* Colors */
+
+.astra_500 { 
     color: #EB6C34;
 }
-.orange{ 
+.orange { 
     color: #EC6B28;
 }
+
 /* BLUE */
+
 .blue_100 { 
     color: #F3F8FF;
 }
@@ -134,7 +181,7 @@
     color: #FF00C7;
 }
 
-/* YELLO */
+/* YELLOW */
 
 .yellow_100 { 
     color: #F9F6F0;
@@ -170,7 +217,3 @@ body {
   color: white;
 }
 
-.top {
-  background-color: #043A5F;  
-  height:200px;
-}
