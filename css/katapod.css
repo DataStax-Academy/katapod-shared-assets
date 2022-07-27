@@ -160,11 +160,17 @@ body {
 }
 
 .tile {
-    display: inline-block;
-    width: 100px;
-    height: 100px;
-    padding: 5px;
-    border: 1px solid blue;    
-    background-color: #043A5F; 
-    color: white;
-  }
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid black;    
+  background-color: #043A5F; 
+  color: white;
+}
+
+.top {
+  background-color: #043A5F;  
+  height:200px;
+}
