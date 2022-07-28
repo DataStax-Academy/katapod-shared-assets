@@ -28,7 +28,6 @@ a.steps {
 pre code {
     background-color: lightgray;
     color: black;
-    margin: 0 10px 0 10px;
     padding: 10px 10px;
     width: 100%;
     display: block;
@@ -204,7 +203,7 @@ div.top {
    height: 150px;
    #top:0px;
    #left:0px;
-   padding         : 40px 0 20px 20px;
+   padding : 40px 0 20px 20px;
    background-color: #043A5F;
    color: white; 
    background-image: url('../images/hero2.png');
