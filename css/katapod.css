@@ -245,8 +245,6 @@ body {
   background-color:#EC6B28;
   border:0px;
   float:center;
-  position: absolute;
-  bottom: 0;
 }
 
 .btn-cassandra {
