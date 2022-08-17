@@ -244,7 +244,9 @@ body {
 .btn-astra {
   background-color:#EC6B28;
   border:0px;
-  float:right
+  float:center;
+  position: absolute;
+  bottom: 0;
 }
 
 .btn-cassandra {
