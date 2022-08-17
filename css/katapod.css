@@ -250,7 +250,7 @@ body {
 .btn-cassandra {
   background-color:#1287b1;
   border:0px;
-  float:right
+  float:center;
 }
 
 .centered-img {
