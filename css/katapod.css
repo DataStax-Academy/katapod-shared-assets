@@ -247,6 +247,12 @@ body {
   float:right
 }
 
+.btn-cassandra {
+  background-color:#1287b1;
+  border:0px;
+  float:right
+}
+
 .centered-img {
   display: block;
   margin-left: auto;
