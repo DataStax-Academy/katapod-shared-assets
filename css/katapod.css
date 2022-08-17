@@ -244,13 +244,13 @@ body {
 .btn-astra {
   background-color:#EC6B28;
   border:0px;
-  float:center;
+  float:left;
 }
 
 .btn-cassandra {
   background-color:#1287b1;
   border:0px;
-  float:center;
+  float:left;
 }
 
 .centered-img {
