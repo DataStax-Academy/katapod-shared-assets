@@ -273,3 +273,8 @@ body {
   left:350px;
   font-size:1em;
 }
+
+.large-bold {
+  font-size:1.5em;
+  font-weight:bold;
+}
