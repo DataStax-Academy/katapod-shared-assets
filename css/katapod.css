@@ -274,12 +274,27 @@ body {
   font-size:1em;
 }
 
-.large-bold {
+.scenario-description {
   font-size:1.5em;
   font-weight:bold;
 }
 
-.logo-image {
+.scenario-objectives {
+  font-size:1.5em;
+  font-weight:bold;
+}
+
+.scenario-choices {
+  font-size:1.5em;
+  font-weight:bold;
+}
+
+.logo-astradb {
+  height:80px;
+  margin-top:20px;
+}
+
+.logo-cassandra {
   height:80px;
   margin-top:20px;
 }
