@@ -278,3 +278,8 @@ body {
   font-size:1.5em;
   font-weight:bold;
 }
+
+.logo-image {
+  height:80px;
+  margin-top:20px;
+}
