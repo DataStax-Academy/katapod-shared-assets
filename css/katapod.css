@@ -353,3 +353,9 @@ body {
 .navigation-bottom-right {
   float:right;
 }
+
+summary {
+  font-size:1.5em;
+  font-weight:bold;
+  color:#003882;
+}
