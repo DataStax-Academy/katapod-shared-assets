@@ -279,9 +279,17 @@ body {
   font-weight:bold;
 }
 
+.scenario-description-attribute {
+  font-weight:normal;
+}
+
 .scenario-objectives {
   font-size:1.5em;
   font-weight:bold;
+}
+
+.scenario-objective {
+  font-weight:normal;
 }
 
 .scenario-choices {
@@ -297,4 +305,22 @@ body {
 .logo-cassandra {
   height:80px;
   margin-top:20px;
+}
+
+.astradb-line1 {
+  font-size:2em;
+  font-weight:normal;
+}
+
+.astradb-line2 {
+  font-weight:normal;
+}
+
+.cassandra-line1 {
+  font-size:2.5em;
+  font-weight:normal;
+}
+
+.cassandra-line2 {
+  font-weight:normal;
 }
