@@ -324,3 +324,15 @@ body {
 .cassandra-line2 {
   font-weight:normal;
 }
+
+.navigation-top {
+  width:100%;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:30px;
+}
+
+.navigation-top-left {
+  float:left;
+}
+    
