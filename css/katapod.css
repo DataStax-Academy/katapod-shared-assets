@@ -335,4 +335,12 @@ body {
 .navigation-top-left {
   float:left;
 }
-    
+
+.navigation-top-right {
+  float:right;
+}
+
+.step-count {
+  font-size:1.5em;
+  font-weight:normal;
+}
