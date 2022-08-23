@@ -350,6 +350,10 @@ body {
   text-align:center;
 }
 
+.navigation-bottom-left {
+  float:left;
+}
+
 .navigation-bottom-right {
   float:right;
 }
