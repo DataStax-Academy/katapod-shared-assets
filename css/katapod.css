@@ -348,9 +348,9 @@ body {
 .navigation-bottom {
   width:100%;
   text-align:center;
-  padding-bottom:20px;
   padding-top:20px;
-  padding-inline-end: 10px;
+  border: 1px solid red; 
+  padding-bottom: 2em;
 }
 
 .navigation-bottom-left {
