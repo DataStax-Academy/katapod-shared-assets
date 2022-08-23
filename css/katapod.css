@@ -348,6 +348,7 @@ body {
 .navigation-bottom {
   width:100%;
   text-align:center;
+  padding-bottom:20px;
 }
 
 .navigation-bottom-left {
