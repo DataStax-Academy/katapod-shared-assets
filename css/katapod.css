@@ -372,3 +372,8 @@ summary {
 .resource {
   font-weight:normal;
 }
+
+.step-title {
+  font-size:1.5em;
+  font-weight:normal;
+}
