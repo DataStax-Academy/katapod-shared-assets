@@ -358,3 +358,17 @@ summary {
   font-weight:bold;
   color:#003882;
 }
+
+.scenario-completed {
+  font-size:2em;
+  font-weight:normal;
+}
+
+.resources {
+  font-size:1.5em;
+  font-weight:bold;
+}
+
+.resource {
+  font-weight:normal;
+}
