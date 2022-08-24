@@ -363,6 +363,7 @@ body {
 summary {
   font-weight:bold;
   color:#003882;
+  font-size:1.25em;
 }
 
 .scenario-completed {
