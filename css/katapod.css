@@ -34,7 +34,13 @@ pre code {
 }
 
 a.command_link {
-    text-decoration:none;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: large;
+}
+a.command_link:focus {
+    outline: none !important;
 }
 
 /* Top block */
