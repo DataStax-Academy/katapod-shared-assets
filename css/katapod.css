@@ -391,3 +391,7 @@ summary {
   font-weight:normal;
   padding-bottom:20px;
 }
+
+.kbd { 
+    color: #002659;
+}
