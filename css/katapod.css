@@ -398,3 +398,7 @@ summary {
 .kbd { 
     color: #002659;
 }
+
+.non-executable-code { 
+    color: #a31516;
+}
