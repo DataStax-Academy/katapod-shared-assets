@@ -198,7 +198,7 @@ a.command_link:focus {
 div.top {
   width :100%;
   height: 150px;
-  padding : 40px 0 20px 20px;
+  padding : 0;
   background-color: #043A5F;
   color: white; 
   background-image: url('../images/hero_2023.png');
