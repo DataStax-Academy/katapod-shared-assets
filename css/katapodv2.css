@@ -258,9 +258,15 @@ body {
 }
 
 .scenario-title-section {
-  position:absolute;
-  top:20px;
-  left:350px;
+  position: absolute;
+  top: 20px;
+  left: 300px;
+}
+
+.scenario-academy-logo {
+  position: absolute;
+  top: 20px;
+  width: 200px;
 }
 
 .scenario-title {
