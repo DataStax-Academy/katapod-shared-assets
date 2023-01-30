@@ -195,7 +195,7 @@ a.command_link:focus {
     color: #462F00;
 }
 
-div.top {
+div.top2 {
   padding : 40px 0 20px 20px;
   width :100%;
   height: 150px;
@@ -205,6 +205,18 @@ div.top {
   background-image: url('../images/hero_2023.png');
   background-size: cover;
   background-position: left;
+}
+
+div.top {
+   #position: absolute;
+   width :100%;
+   height: 150px;
+   #top:0px;
+   #left:0px;
+   padding : 40px 0 20px 20px;
+   background-color: #043A5F;
+   color: white; 
+   background-image: url('../images/hero_2023.png');
 }
 
 body {
