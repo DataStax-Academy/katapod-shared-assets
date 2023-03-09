@@ -219,6 +219,12 @@ div.top {
    background-image: url('../images/hero_2023.png');
 }
 
+div.top a,
+div.top2 a {
+  color: darkorange;
+}
+
+
 body {
   font-size: 0.875rem;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
