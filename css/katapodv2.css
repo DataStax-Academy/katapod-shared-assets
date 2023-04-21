@@ -456,3 +456,45 @@ pre code.codeblock:focus {
 code.inline_code {
   color: #7F1FAA;
 }
+
+/* tables */
+table.katapod-table {
+  border: 1px solid;
+  padding: 5px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+th.katapod-table {
+  border-collapse: collapse;
+  background: #C8C0E0;
+  border: solid 1px;
+  margin: 20px;
+  padding: 5px 12px;
+}
+
+td.katapod-table {
+  border-collapse: collapse;
+  border: solid 1px;
+  margin: 20px;
+  padding: 5px 12px;
+}
+
+/*
+  "Details" boxes (need to manually add a class, as in:
+    <details class="katapod-details"><summary> ...
+  )
+*/
+
+details.katapod-details {
+  border: 1px solid;
+  border-radius: 3px;
+  background: #d9e6ea;
+/*  margin: 5px;*/
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+details.katapod-details > summary {
+  margin-bottom: 10px;
+}
