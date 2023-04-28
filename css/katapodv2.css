@@ -431,10 +431,15 @@ summary {
 pre.executable {
   cursor: pointer;
   background-color: lightgray;
+  margin-left: 8px;
+}
+pre.executed {
+  box-shadow: -8px 0px 0px 0px rgba(0, 0, 0, 1.0);
 }
 pre.nonexecutable {
   cursor: default;
   background-color: #B0CFFF;
+  margin-left: 8px;
 }
 
 a.codeblock {
@@ -448,9 +453,7 @@ pre code.codeblock {
   width: 98%;
   display: block;
 }
-pre code.executed {
-  box-shadow: -8px 0px 0px 0px rgba(0, 0, 0, 1.0);
-}
+
 pre code.codeblock:focus {
   outline: none !important;
 }
