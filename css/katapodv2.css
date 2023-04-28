@@ -428,14 +428,15 @@ summary {
   display: block;
 }*/
 
-pre code.executable {
+pre.executable {
   cursor: pointer;
   background-color: lightgray;
 }
-pre code.nonexecutable {
+pre.nonexecutable {
   cursor: default;
   background-color: #B0CFFF;
 }
+
 a.codeblock {
   text-decoration: none;
 }
